@@ -34,7 +34,7 @@ Reach out on social media if you have things you would like me to write/talk abo
   </tr>
   <tr>
     <td>Mastodon:</td>
-    <td><a href="https://noc.social/_tenpenny">@_tenpenny@noc.social</a></td>
+    <td><a href="https://mastodon.social/@jasontenpenny">@jasontenpenny@mastodon.social</a></td>
   </tr>
   <tr >
     <td>GitHub:</td>
