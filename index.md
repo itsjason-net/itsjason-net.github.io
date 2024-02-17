@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-Hello and thank you for visiting jasontenpenny.com!
+Hello and thank you for visiting my site!
 
 ## About Me
 
@@ -22,23 +22,19 @@ Reach out on social media if you have things you would like me to write/talk abo
 <table class="socials">
   <tr>
     <td>Bluesky:</td>
-    <td><a href="https://bsky.app/profile/jasontenpenny.com">@jasontenpenny.com</a></td>
+    <td><a href="https://bsky.app/profile/itsjason.net">@itsjason.net</a></td>
   </tr>
   <tr>
     <td>Twitter:</td>
-    <td><a href="https://twitter.com/_tenpenny">@_tenpenny</a></td>
+    <td><a href="https://twitter.com/itsjason_net">@itsjason_net</a></td>
   </tr>
-  <tr>
-    <td>LinkedIn:</td>
-    <td><a href="https://linkedin.com/in/jasontenpenny">in/jasontenpenny</a></td>
-  </tr>
-  <tr>
+  <!--<tr>
     <td>Mastodon:</td>
     <td><a href="https://mastodon.social/@jasontenpenny">@jasontenpenny@mastodon.social</a></td>
-  </tr>
+  </tr>-->
   <tr >
     <td>GitHub:</td>
-    <td><a href="https://github.com/jasontenpenny">jasontenpenny</a></td>
+    <td><a href="https://github.com/itsjason-net">itsjason-net</a></td>
   </tr>
 </table>
 
