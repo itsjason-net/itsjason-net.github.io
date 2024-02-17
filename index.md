@@ -28,10 +28,10 @@ Reach out on social media if you have things you would like me to write/talk abo
     <td>Twitter:</td>
     <td><a href="https://twitter.com/itsjason_net">@itsjason_net</a></td>
   </tr>
-  <!--<tr>
+  <!-- <tr>
     <td>Mastodon:</td>
     <td><a href="https://mastodon.social/@jasontenpenny">@jasontenpenny@mastodon.social</a></td>
-  </tr>-->
+  </tr> -->
   <tr >
     <td>GitHub:</td>
     <td><a href="https://github.com/itsjason-net">itsjason-net</a></td>
