@@ -28,7 +28,7 @@ This is a sample to see how this is rendered if I browse to it via GitHub pages.
 - Bulleted list
 
 
-[Hyperlink](https://jasontenpenny.com)
+[Hyperlink](https://itsjason.net)
 
 ![image](/assets/images/IMG_0918.jpeg)
 
