@@ -3,5 +3,9 @@ description: itsjason.net
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-slate
+url: https://itsjason.net
 plugins:
  - jekyll-feed
+author: Jason
+feed:
+ exerpt_only: true
