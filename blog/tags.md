@@ -17,7 +17,7 @@ title: "Post Tags"
     <section class="tag-entry">
         <h2 class="tag-title" id="{{ tag[0] }}">{{ tag[0] | replace: "+", " " }}</h2>
         {% for post in tag[1] %}
-        {% unless post.hidden == true %}
+        {% unless post.draft == true %}
         <article class="post-entry">
             <h3 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
             <div class="post-metadata">
