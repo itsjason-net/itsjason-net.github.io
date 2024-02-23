@@ -17,7 +17,7 @@ title: "Post Categories"
     <section class="category-entry">
         <h2 class="category-title" id="{{ category[0] | url_encode}}">{{ category[0] }}</h2>
         {% for post in category[1] %}
-        {% unless post.hidden == true %}
+        {% unless post.draft == true %}
         <article class="post-entry">
             <h3 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
             <div class="post-metadata">
