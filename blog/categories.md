@@ -6,7 +6,7 @@ title: "Post Categories"
 <section class="category-list">
     <ul>
     {% for category in site.categories %}
-    {% unless category[0] == "blob" %}
+    {% unless category[0] == "blog" %}
         <li><a href="#{{ category[0] | url_encode }}">{{ category[0] }}</a></li>
     {% endunless %}
     {% endfor %}
@@ -17,6 +17,7 @@ title: "Post Categories"
     <section class="category-entry">
         <h2 class="category-title" id="{{ category[0] | url_encode}}">{{ category[0] }}</h2>
         {% for post in category[1] %}
+        {% unless post.hidden = true %}
         <article class="post-entry">
             <h3 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
             <div class="post-metadata">
@@ -28,6 +29,7 @@ title: "Post Categories"
                 {% endfor %}
             </div>
         </article>
+        {% endunless %}
         {% endfor %}
     </section>
     {% endunless %}
