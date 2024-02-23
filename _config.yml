@@ -11,10 +11,11 @@ feed:
   path: "/blog/feed.xml"
   posts_limit: 50
   excerpt_only: true
-  category:
+  categories:
+    path: "/blog/feeds/categories/"
     - General
     - App Spotlight
   tags:
-    path: "blog/feeds/"
+    path: "blog/feeds/tags/"
     except:
       - example-post
