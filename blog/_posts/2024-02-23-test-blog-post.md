@@ -4,7 +4,6 @@ title:  "Example Post"
 tags: example-post
 category: General
 excerpt_separator: <!--more-->
-hidden: true
 draft: true
 ---
 
