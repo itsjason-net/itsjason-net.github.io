@@ -5,7 +5,7 @@ title: Blog
 
 <section class="post-list">
   {% for post in site.posts %}
-    {% unless post.hidden == true %}
+    {% unless post.draft == true %}
       <article class="post-entry">
         <h3 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
         <div class="post-metadata">
