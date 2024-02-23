@@ -8,4 +8,13 @@ plugins:
   - jekyll-feed
 author: Jason
 feed:
+  path: "/blog/feed.xml"
+  posts_limit: 50
   excerpt_only: true
+  category:
+    - General
+    - App Spotlight
+  tags:
+    path: "blog/feeds/"
+    except:
+      - example-post
