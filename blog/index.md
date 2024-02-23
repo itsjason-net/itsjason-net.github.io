@@ -22,6 +22,6 @@ title: Blog
         </div>
         <p><a href="{{ post.url }}">Read more ></a></p>
       </article>
-    {% enduless %}
+    {% endunless %}
   {% endfor %}
 </section>
