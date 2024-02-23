@@ -12,7 +12,6 @@ feed:
   posts_limit: 50
   excerpt_only: true
   categories:
-    path: "/blog/feeds/categories/"
     - General
     - App Spotlight
   tags:
