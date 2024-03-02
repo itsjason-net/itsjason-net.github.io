@@ -1,0 +1,20 @@
+title: It's Jason!
+description: itsjason.net
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-slate
+url: https://itsjason.net
+plugins:
+  - jekyll-feed
+author: Jason
+feed:
+  path: "/blog/feed.xml"
+  posts_limit: 50
+  excerpt_only: true
+  categories:
+    - General
+    - App Spotlight
+  tags:
+    path: "blog/feeds/tags/"
+    except:
+      - example-post
