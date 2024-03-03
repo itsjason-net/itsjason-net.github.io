@@ -1,9 +1,0 @@
-- name: Home
-  link: /
-- name: Blog
-  link: /blog
-  subitems:
-  - name: Post Categories
-    link: /blog/categories
-  - name: Post Tags
-    link: /blog/tags
