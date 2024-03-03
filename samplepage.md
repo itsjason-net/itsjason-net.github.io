@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Sample Page
 math: true
 mermaid: true
