@@ -4,8 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-```
-hello world
+```sh
+echo "hello world"
 ```
 
 Hi I'm Jason, and thanks for visiting my site! My hope for this space is to write about things that are interesting to me, and hopefully also is useful for other people. I can't promise a steady stream of content, as I'm not a great writer, but I am going to try to post here from time to time.
