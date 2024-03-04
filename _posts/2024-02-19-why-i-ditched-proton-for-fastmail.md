@@ -3,6 +3,8 @@ title: "Why I ditched Proton for Fastmail"
 date: 2024-02-19 13:22:00 -0600
 tags: [email service, privacy]
 category: [General]
+redirect_from:
+  - /blog/general/2024/02/19/why-i-ditched-proton-for-fastmail.html
 ---
 
 Countless words have been written about the importance of privacy in today's world. While many people might not realize privacy's importance, I do, and I have invested time and money in utilizing privacy-focused products. I don't want to rehash all the privacy arguments, we'll just take its importance as a given for the purpose of this article. Instead, what I'd like to do is relay my personal experience around Proton and why I decided to move away from it for my personal email, calendar, and storage needs.
