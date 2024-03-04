@@ -4,7 +4,7 @@ date: 2023-08-03 16:34:00 -0600
 tags: [mac tips, macos]
 category: [General]
 redirect_from:
-  - /blog/general/2024/08/03/open-any-file-with-visual-studio-code-on-mac.html
+  - /blog/general/2023/08/03/open-any-file-with-visual-studio-code-on-mac.html
 ---
 
 In my work, I often have to open text files that do not have a file extension. My preferred text editor is Visual Studio Code, but it doesn’t have an option to open extensionless files, which means it doesn’t automatically show up in the Open With menu.
