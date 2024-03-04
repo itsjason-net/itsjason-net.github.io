@@ -129,6 +129,10 @@ paginate: 10
 # The base URL of your site
 baseurl: ""
 
+# Additional plugin(s)
+plugins:
+  - jekyll-redirect-from
+
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:
