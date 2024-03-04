@@ -8,8 +8,6 @@ image:
     alt: screenshot of the Paste App website
 ---
 
-## Overview
-
 Today's app spotlight post tackles clipboard management on the Mac. In my role at Microsoft, I am constantly copying different pieces of information to my clipboard to then paste other places. These can be things like Azure subscription IDs, resource IDs, IP addresses, computer names, you name it. It starts to get confusing after a while, and God forbid that I copy something before I had pasted the item before it.
 
 While it might not be super widely known, Windows has a built-in feature to handle this. Starting with Windows 10, Microsoft added clipboard history directly into the operating system. `Ctrl+V` will paste the last item, just as it always has, but if you use `Ctrl+Shift+V`, you'll get a popup that shows the last several items on your clipboard (once you turn on the feature). But alas, the Mac has no such feature hiding behind a keyboard shortcut.
